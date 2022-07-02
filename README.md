@@ -106,7 +106,7 @@ If I am not coding you can find me hanging out with my corgi Skeeter or reading 
  > 
 > 📦 33.5 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
+
  > 
 > 📜 44 Public Repositories 
  > 
