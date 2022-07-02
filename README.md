@@ -20,7 +20,7 @@
 <a href="google.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=portfolio style="margin-bottom: 5px; height: 28px; width: 110px;/></a> -->
 
 
-<a href="https://www.alexgrandolph.dev/" target="_blank">
+<a href="/resume4.0.pdf" target="_blank" download>
 <img src=/resume_badgeP.png alt=resume style="margin-bottom: 5px; height: 28px; " />
 </a> 
 
