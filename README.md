@@ -12,7 +12,11 @@
 </a>  
 <a href="https://www.alexgrandolph.dev/" target="_blank">
 <img src=/portfolio_badge1.png alt=portfolio style="margin-bottom: 5px; height: 28px; width: 110px" />
-</a>  
+</a> 
+<a href="mailto:alexgeorgerandolph@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=portfolio style="margin-bottom: 5px; height: 28px; width: 110px; />
+</a> 
+
 
 
 
