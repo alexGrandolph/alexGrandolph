@@ -21,7 +21,7 @@
 
 
 <a href="https://www.alexgrandolph.dev/" target="_blank">
-<img src=/resume_badge.png alt=portfolio style="margin-bottom: 5px; height: 28px; " />
+<img src=/resume_badgeP.png alt=resume style="margin-bottom: 5px; height: 28px; " />
 </a> 
 
 
