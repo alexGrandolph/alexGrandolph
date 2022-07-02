@@ -96,7 +96,7 @@ If I am not coding you can find me hanging out with my corgi Skeeter or reading 
 
 </div>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
 
@@ -154,14 +154,6 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Ruby** 
-
-```text
-Ruby                     14 repos            ████████████████████░░░░░   82.35% 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
-
-```
 
 
 **Timeline**
