@@ -5,21 +5,19 @@
 
 <br/>  
 <a href="https://github.com/https://github.com/alexGrandolph" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px; height: 28px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alexgrandolph/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="https://www.alexgrandolph.dev/" target="_blank">
-<img src=/portfolio_badge.png alt=portfolio style="margin-bottom: 5px;" />
+<img src=/portfolio_badge1.png alt=portfolio style="margin-bottom: 5px; height: 28px; width: 110px" />
 </a>  
 
 
 
 
-<a href="https://alexgrandolph.dev" target="_blank">
-My Porfolio
-</a>
+
 <table><tr><td valign="top" width="50%">
 
 
