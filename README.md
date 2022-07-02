@@ -11,7 +11,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="https://www.alexgrandolph.dev/" target="_blank">
-<img src=/portfolio_badge1.png alt=portfolio style="margin-bottom: 5px; height: 28px; width: 110px" />
+<img src=/portfolio_badge1.png alt=portfolio style="margin-bottom: 5px; height: 28px; " />
 </a> 
 <a href="mailto:alexgeorgerandolph@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=portfolio style="margin-bottom: 5px; height: 28px; width: 110px; />
@@ -20,15 +20,14 @@
 
 
 
+<br/>  
 
 
 <table><tr><td valign="top" width="50%">
 
 
-
 ### About me  
 I am a back end developer with a growing love for the full stack. I am a graduate of the Turing School of Software and Design. My focus has been Ruby on Rails but recently I have been learning JavaScript through React and Python.
-I focus on Test Driven Development, Object Oriented Programming, and developer empathy.  
 
 If I am not coding you can find me hanging out with my corgi Skeeter or reading a new horror or sci-fi book.  
 
@@ -42,6 +41,7 @@ If I am not coding you can find me hanging out with my corgi Skeeter or reading 
 
 </td></tr></table>
 <br />
+
 <br/>  
 
 <div align="center">  
