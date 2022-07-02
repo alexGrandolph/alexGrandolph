@@ -95,3 +95,10 @@ If I am not coding you can find me hanging out with my corgi Skeeter or reading 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 </div>
+<!--START_SECTION:waka-->
+🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+
+<!--END_SECTION:waka-->
