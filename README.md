@@ -20,6 +20,12 @@
 <a href="google.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=portfolio style="margin-bottom: 5px; height: 28px; width: 110px;/></a> -->
 
 
+<a href="https://www.alexgrandolph.dev/" target="_blank">
+<img src=/resume_badge.png alt=portfolio style="margin-bottom: 5px; height: 28px; " />
+</a> 
+
+
+
 <br/>  
 
 
