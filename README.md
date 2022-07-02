@@ -10,6 +10,12 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alexgrandolph/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="https://www.alexgrandolph.dev/" target="_blank">
+<img src=/portfolio_badge.png alt=portfolio style="margin-bottom: 5px;" />
+</a>  
+
+
+
 
 <a href="https://alexgrandolph.dev" target="_blank">
 My Porfolio
