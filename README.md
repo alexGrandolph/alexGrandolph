@@ -20,6 +20,7 @@ My Porfolio
 
 ### About me  
 I am a back end developer with a growing love for the full stack. I am a graduate of the Turing School of Software and Design. My focus has been Ruby on Rails but recently I have been learning JavaScript through React and Python.
+I focus on Test Driven Development, Object Oriented Programming, and developer empathy.  
 
 If I am not coding you can find me hanging out with my corgi Skeeter or reading a new horror or sci-fi book.  
 
@@ -74,7 +75,3 @@ If I am not coding you can find me hanging out with my corgi Skeeter or reading 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 </div>
-![OOP][oop-badge]
-![TDD][tdd-badge]
-![MVC][mvc-badge]
-![REST][rest-badge]
