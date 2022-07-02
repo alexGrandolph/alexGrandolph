@@ -96,9 +96,78 @@ If I am not coding you can find me hanging out with my corgi Skeeter or reading 
 
 </div>
 <!--START_SECTION:waka-->
-🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 1,217 Contributions in the Year 2022
+ > 
+> 📦 33.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 44 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    142 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.61% 
+🌆 Daytime    463 commits    ███████████████░░░░░░░░░░   60.68% 
+🌃 Evening    158 commits    █████░░░░░░░░░░░░░░░░░░░░   20.71% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       162 commits    █████░░░░░░░░░░░░░░░░░░░░   21.23% 
+Tuesday      137 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.96% 
+Wednesday    80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.48% 
+Thursday     97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
+Friday       66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.65% 
+Saturday     80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.48% 
+Sunday       141 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.48%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Denver
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Ruby** 
+
+```text
+Ruby                     14 repos            ████████████████████░░░░░   82.35% 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/alexGrandolph/alexGrandolph/main/charts/bar_graph.png) 
+
+
+ Last Updated on 02/07/2022 19:16:15 UTC
 <!--END_SECTION:waka-->
