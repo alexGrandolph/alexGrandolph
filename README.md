@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Finlandica&size=100&color=44F7F2&background=DBF4FF67&center=true&vCenter=true&width=1000&height=250&lines=alexGrandolph;back+end+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Finlandica&size=100&color=44F7F2&background=DBF4FF67&center=true&vCenter=true&width=1000&height=250&lines=alexGrandolph;sotware+engineer)](https://git.io/typing-svg)
 
 ![]()  
   
@@ -33,10 +33,10 @@
 
 
 ### About me  
-  I am a back end developer with a growing love for the full stack. I am a graduate of the Turing School of Software and Design. My focus has been Ruby on Rails but recently I have been learning JavaScript through React and Python.
+  I am a software engineer in Colorado with a love for the full stack. I am a graduate of the Turing School of Software and Design Back End Development program. My focus has been Ruby on Rails but recently I have been learning JavaScript through React and Python.
 I focus on Test Driven Development, Object Oriented Programming, and developer empathy.  
 
-If I am not coding you can find me hanging out with my corgi Skeeter or reading a new horror or sci-fi book.   
+If I am not coding you can find me hanging out with my corgi Skeeter, my stray String Bean, or reading a new horror or sci-fi book.   
 
 
 </td><td valign="top" width="50%">
