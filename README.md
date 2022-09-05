@@ -100,7 +100,7 @@ If I am not coding you can find me hanging out with my corgi Skeeter, my stray S
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -114,10 +114,46 @@ If I am not coding you can find me hanging out with my corgi Skeeter, my stray S
  > 
 > 🔑 4 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    191 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.74% 
+🌆 Daytime    604 commits    ██████████████░░░░░░░░░░░   59.27% 
+🌃 Evening    224 commits    █████░░░░░░░░░░░░░░░░░░░░   21.98% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       186 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.25% 
+Tuesday      182 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
+Wednesday    135 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
+Thursday     114 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
+Friday       100 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.81% 
+Saturday     108 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.6% 
+Sunday       194 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.04%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Denver
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/alexGrandolph/alexGrandolph/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 18:50:44 UTC
+ Last Updated on 05/09/2022 18:56:06 UTC
 <!--END_SECTION:waka-->
