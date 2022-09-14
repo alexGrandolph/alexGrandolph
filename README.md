@@ -20,7 +20,7 @@
 <a href="google.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=portfolio style="margin-bottom: 5px; height: 28px; width: 110px;/></a> -->
 
 
-<a href="/Resume4.0.pdf" target="_blank" download>
+<a href="/SE resume 2.0.pdf" target="_blank" download>
 <img src=/resume_badgeP.png alt=resume style="margin-bottom: 5px; height: 28px; " />
 </a> 
 
@@ -33,8 +33,8 @@
 
 
 ### About me  
-  I am a software engineer in Colorado with a love for the full stack. I am a graduate of the Turing School of Software and Design Back End Development program. My focus has been Ruby on Rails but recently I have been learning JavaScript through React and Python.
-I focus on Test Driven Development, Object Oriented Programming, and developer empathy.  
+  I am a software engineer in Colorado with a love for the full stack. I am a graduate of the Turing School of Software and Design Back End Development program. My focus has been Ruby on Rails and JavaScript/React.  Working with API's, high velocity teams, Test Driven Development,and creating user driven applications are where I shine. I am currently looking for my first role.  
+
 
 If I am not coding you can find me hanging out with my corgi Skeeter, my stray String Bean, or reading a new horror or sci-fi book.   
 
