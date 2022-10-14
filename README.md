@@ -100,7 +100,7 @@ If I am not coding you can find me hanging out with my corgi Skeeter, my stray S
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -155,5 +155,5 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/alexGrandolph/alexGrandolph/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/10/2022 19:09:36 UTC
+ Last Updated on 14/10/2022 19:00:26 UTC
 <!--END_SECTION:waka-->
