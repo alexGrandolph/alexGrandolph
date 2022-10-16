@@ -33,8 +33,7 @@
 
 
 ### About me  
-  I am a software engineer in Colorado with a love for the full stack. I am a graduate of the Turing School of Software and Design Back End Development program. My focus has been Ruby on Rails and JavaScript/React.  Working with API's, high velocity teams, Test Driven Development,and creating user driven applications are where I shine. I am currently looking for my first role.  
-
+  I am a Software Engineer at Beyond Finance and am based in Colorado. I am a graduate of the Turing School of Software and Design Back End Development program. My focus has been Ruby on Rails and JavaScript/React.  Working with API's, high velocity teams, Test Driven Development, and creating user driven applications are where I shine.
 
 If I am not coding you can find me hanging out with my corgi Skeeter, my stray String Bean, or reading a new horror or sci-fi book.   
 
